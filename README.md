@@ -27,7 +27,7 @@ It provides distinct functionalities for each user role, ensuring efficient mana
   - Real-time Updates
 
 ## Installation
-1. Clone the repository: `git clone [repository_url]`
+1. Clone the repository: `git clone [https://github.com/oluyalireuben/Patient-Post-DischargeApp.git]`
 2. Open the project in Android Studio.
 3. Connect your Firebase project by replacing the `google-services.json` file with your own.
 4. Build and run the application on an Android device or emulator.

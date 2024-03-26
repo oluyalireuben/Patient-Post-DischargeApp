@@ -43,4 +43,3 @@ It provides distinct functionalities for each user role, ensuring efficient mana
 ## Acknowledgements
 - Special thanks to Firebase for providing robust backend services.
 - Thanks to Kotlin for enabling efficient frontend development.
-- 

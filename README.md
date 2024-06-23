@@ -38,7 +38,9 @@ It provides distinct functionalities for each user role, ensuring efficient mana
 3. Access the dashboard tailored to your role and start utilizing the features.
 
 
-##
+## Download
+[Click here to download the app]()
+
 
 ## Acknowledgements
 - Special thanks to Firebase for providing robust backend services.

@@ -1,4 +1,4 @@
-# Patient post discharge Application 
+# Patient-post discharge Application 
 
 ## Description
 This is an Android application designed to facilitate communication and interaction between doctors, health workers, and patients within a hospital environment.

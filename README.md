@@ -2,7 +2,7 @@
 
 ## Description
 This is an Android application designed to facilitate communication and interaction between doctors, health workers, and patients within a hospital environment.
-It provides distinct functionalities for each user role, ensuring efficient management of patient records and monitoring of their progress.
+It provides distinct functionalities for each user role, ensuring efficient management of patient records and monitoring of their progres.
 
 ## Features
 - **Doctor Dashboard:**
@@ -44,4 +44,4 @@ It provides distinct functionalities for each user role, ensuring efficient mana
 
 ## Acknowledgements
 - Special thanks to Firebase for providing robust backend services.
-- Thanks to Kotlin for enabling efficient frontend development.
+- Thanks to Kotlin for enabling efficient frontend development...

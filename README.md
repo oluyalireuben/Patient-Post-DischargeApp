@@ -8,7 +8,7 @@ It provides distinct functionalities for each user role, ensuring efficient mana
 - **Doctor Dashboard:**
   - Add patients to the doctor's book with details such as name, email, age, residence, and phone.
   - Record tests conducted and diagnosis for each patient.
-  - Discharge patients from the hospital and assign a health worker for further monitoring. (Health provider assignment is based on the patient's Location).
+  - Discharge patients from the hospital and assign a health worker for further monitoring (Health provider assignment is based on the patient's Location).
 
 - **Health Worker Dashboard:**
   - Monitor the progress of assigned patients.
